@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "HolaWeb.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HolaWeb.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HolaWeb.App.Dominio.dll": {}
+        }
+      },
+      "HolaWeb.App.Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HolaWeb.App.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HolaWeb.App.Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HolaWeb.App.Persistencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HolaWeb.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../HolaWeb.App.Dominio/HolaWeb.App.Dominio.csproj",
+      "msbuildProject": "../HolaWeb.App.Dominio/HolaWeb.App.Dominio.csproj"
+    },
+    "HolaWeb.App.Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../HolaWeb.App.Persistencia/HolaWeb.App.Persistencia.csproj",
+      "msbuildProject": "../HolaWeb.App.Persistencia/HolaWeb.App.Persistencia.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "HolaWeb.App.Dominio >= 1.0.0",
+      "HolaWeb.App.Persistencia >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Leaf\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Fontend\\HolaWeb.App.Fontend.csproj",
+      "projectName": "HolaWeb.App.Fontend",
+      "projectPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Fontend\\HolaWeb.App.Fontend.csproj",
+      "packagesPath": "C:\\Users\\Leaf\\.nuget\\packages\\",
+      "outputPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Fontend\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Leaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
+              "projectPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
+            },
+            "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj": {
+              "projectPath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

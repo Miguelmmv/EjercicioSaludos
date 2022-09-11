@@ -1,0 +1,22 @@
+﻿@page
+@using Persistencia.AppRepositorios
+@model HolaWeb.App.Fontend.Pages.DetailsModel
+@{
+}
+<h1>@Model.Saludo.EnEspanol</h1>
+@* <p>
+Id: @Model.Saludo.Id <br>
+Ingles: @Model.Saludo.EnIngles <br>
+Italiano: @Model.Saludo.EnItaliano <br>
+<a href="./List">Lista Saludos</a>
+</p> *@
+<div>
+    Id: @Model.Saludo.Id
+</div>
+<div>
+    Ingles: @Model.Saludo.EnIngles
+</div>
+<div>
+    Italiano: @Model.Saludo.EnItaliano
+</div>
+<a href="./List" class="btn-default">Lista Saludos</a>

@@ -1,0 +1,15 @@
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\bin\Debug\net6.0\HolaWeb.App.Persistencia.deps.json
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\bin\Debug\net6.0\HolaWeb.App.Persistencia.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\bin\Debug\net6.0\HolaWeb.App.Persistencia.pdb
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\bin\Debug\net6.0\HolaWeb.App.Dominio.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\bin\Debug\net6.0\HolaWeb.App.Dominio.pdb
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\HolaWeb.App.Persistencia.csproj.AssemblyReference.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\HolaWeb.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\HolaWeb.App.Persistencia.AssemblyInfoInputs.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\HolaWeb.App.Persistencia.AssemblyInfo.cs
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\HolaWeb.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\HolaWeb.App.Persistencia.csproj.CopyComplete
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\HolaWeb.App.Persistencia.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\refint\HolaWeb.App.Persistencia.dll
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\HolaWeb.App.Persistencia.pdb
+C:\HolaWeb\HolaWeb.App\HolaWeb.App.Persistencia\obj\Debug\net6.0\ref\HolaWeb.App.Persistencia.dll
